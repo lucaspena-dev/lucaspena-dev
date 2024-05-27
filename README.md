@@ -3,8 +3,8 @@
 <div align="center" style="display: inline">
   <a href="https://github.com/lucaspena-dev">
   <div style="display: inline_block">
-    <img height="160em" src="https://github-readme-stats-xi-seven-30.vercel.app/api?username=lucaspena-dev&show_icons=true&include_all_commits=true&count_private=true&theme=neon" />
-    <img height="160em" src="https://github-readme-stats-xi-seven-30.vercel.app/api/top-langs/?username=lucaspena-dev&layout=compact&langs_count=16&theme=neon" />
+    <img height="160em" src="https://github-readme-stats-lucaspenadevs-projects.vercel.app//api?username=lucaspena-dev&show_icons=true&include_all_commits=true&count_private=true&theme=neon" />
+    <img height="160em" src="https://github-readme-stats-lucaspenadevs-projects.vercel.app/.vercel.app/api/top-langs/?username=lucaspena-dev&layout=compact&langs_count=16&theme=neon" />
   </div>
 </div>
 
